@@ -1,3 +1,4 @@
+<?php // start of the code ?>
 		<!-- basic scripts -->
 
 		<!--[if !IE]> -->
