@@ -1,4 +1,5 @@
 <?php
+// it is the session function
 session_start();
 // every page needs to start with these basic things 
 
